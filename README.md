@@ -26,6 +26,8 @@ Modify the `headers`, `url`, and `usernames` list inside the script.
 python discord_username_checker.py
 ```
 
+  <hr>
+  
 ### ![Français](https://flagcdn.com/20x15/fr.png) Français
 
 Un script Python permettant de tester la disponibilité d'une liste de noms d'utilisateur via des requêtes HTTP POST envoyées à une API. Il gère les limitations de taux, interagit avec l'utilisateur pour arrêter ou continuer le processus, et affiche les résultats de manière conviviale. 😊
